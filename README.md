@@ -3,6 +3,9 @@ Practium
 NAME:ATLEGANG PEDINYANE
 STUDENT NUMNER:ST10454437
 
+LINK TO GITHUB
+https://github.com/Atlii-Angiie/Final-Exam-IMAD
+
 PURPOSE
 I have developed a application for a team that I joined with developers working on a weather app for a local weather organisation. The application provides the average temperature for the week and also allows users to view their information daily. The application will use arrays, loops and screen navigation to fulfil the organisations requirements like the day,minimum and maximum temperature and the weather conditions.
 
