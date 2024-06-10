@@ -98,6 +98,13 @@ getTextBoxValue (dayIndex)
 if temp is numeric:
 return temp else:
 return "invalid"
+STOP
+
+SCREENSHOTS
+SCREEN 1
+
+![SCREEN 1](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/b617daf9-93ea-4e4c-8aeb-5ea85789941a)
+
 
 
 
