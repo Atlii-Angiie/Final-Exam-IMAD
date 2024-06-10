@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/btnBack"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E4C473"
+    tools:context=".DetailedViewScreen"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Detailed Screen"
+        android:textSize="48sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="68dp"
+        android:text="@string/back"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtAverageTemperature"
+        tools:ignore="DuplicateIds,MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtDetails"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:text="@string/details"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6"
+        tools:ignore="MissingConstraints" />
+
+    <!--Background ImageView -->
+
+
+    <TextView
+        android:id="@+id/txtviewed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:hint="@string/your_deatils_will_be_shown"
+        android:text="@string/viewed_deatils"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtDetails"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/weatherlogo"
+        android:layout_width="436dp"
+        android:layout_height="737dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:alpha="0.5"
+        android:contentDescription="TODO"
+        android:src="@drawable/weatherlogo"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-25dp"
+        tools:layout_editor_absoluteY="-3dp" />
+
+    <EditText
+        android:id="@+id/txtAverageTemperature"
+        android:layout_width="189dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="132dp"
+        android:ems="10"
+        android:hint="@string/Average_temperature"
+        android:inputType="text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtviewed"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/txtaverageTemperature"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        android:text="@string/average_temperature"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toStartOf="@+id/txtAverageTemperature"
+        app:layout_constraintHorizontal_bias="0.071"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/weatherconditon"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/weatherconditon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:text="Weather Conditions"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toStartOf="@+id/txtviewed"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtDetails" />
+    <![CDATA[
+
+]]>
+</androidx.constraintlayout.widget.ConstraintLayout>
