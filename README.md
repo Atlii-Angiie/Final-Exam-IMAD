@@ -105,6 +105,31 @@ SCREEN 1
 
 ![SCREEN 1](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/b617daf9-93ea-4e4c-8aeb-5ea85789941a)
 
+![SCREEN 1 CODE](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/f86e5d00-3c65-42e9-bbb7-6d2449a4bc72)
+
+SCREEN 2
+
+![SCREEN 2](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/28872953-5e9f-416d-b84d-2ba92cd105a9)
+
+![SCREEN 2 CODE](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/5b541d61-bfcb-45f7-b0f7-7028de5aaeaf)
+
+![SCREEN 2 CODE 2PNG](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/9e2830b4-411e-4d5e-9830-954d59fc7ba6)
+
+SCREEN 3
+
+![SCREEN 3](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/0420c02e-b081-452d-9796-d2fb5bd88c74)
+
+![SCREEN 3 CODE](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/28b68d64-c517-4e04-a4b8-04b921244fc8)
+
+![SCREEN 3 CODE 2 ](https://github.com/Atlii-Angiie/Final-Exam-IMAD/assets/162302010/be35eb56-b31d-48c4-ae1b-007bce78e5f4)
+
+
+
+
+
+
+
+
 
 
 
